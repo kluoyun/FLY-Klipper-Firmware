@@ -1,5 +1,5 @@
 # FLY-Klipper-Firmware
-** 为FLY主板自动编译Klipper固件
+**为FLY主板自动编译Klipper固件**
 
 # 特点
 * 每小时构建（Klipper仓库主分支有新的提交时）
