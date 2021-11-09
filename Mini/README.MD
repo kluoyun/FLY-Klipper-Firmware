@@ -5,3 +5,4 @@
 | 当前版本 | 编译时间 | 下载地址 |
 | --- | --- | --- |
 | [v0.10.0-113](https://github.com/Klipper3d/klipper/commit/d4aee4f55e0203aa7cf2877227a574a1b1458a2e) | 2021-11-07_16:35:11 | [正常下载](./v0.10.0-113/firmware.bin)    [加速下载](https://hub.fastgit.org/kluoyun/FLY-Klipper-Firmware/blob/main/Mini/v0.10.0-113/firmware.bin) |
+| [v0.10.0-116](https://github.com/Klipper3d/klipper/commit/a0615e5e17d701ada93acd59031193a1b231dd7c) | 2021-11-09_13:23:45 | [正常下载](./v0.10.0-116/firmware.bin)    [加速下载](https://hub.fastgit.org/kluoyun/FLY-Klipper-Firmware/blob/main/Mini/v0.10.0-116/firmware.bin) |
