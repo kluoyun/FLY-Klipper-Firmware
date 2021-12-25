@@ -1,0 +1,7 @@
+# FLY主板
+<font size=5 color=#0000ff>型号：Gemini</font>
+---
+# 信息
+| 当前版本 | 编译时间 | 下载地址 |
+| --- | --- | --- |
+| [v0.10.0-208](https://github.com/Klipper3d/klipper/commit/247cd753e283e70a9949e76d0ba669d99c0eb144) | 2021-12-25_09:45:41 | [正常下载](./v0.10.0-208/firmware.bin)    [加速下载](https://hub.fastgit.org/kluoyun/FLY-Klipper-Firmware/blob/main/Gemini/v0.10.0-208/firmware.bin) |
